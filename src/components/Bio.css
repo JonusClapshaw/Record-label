@@ -1,0 +1,8 @@
+.bioContainer img {
+  width: 50%;
+}
+.bioContainer {
+  display: flex;
+  align-items: center;
+  padding-top: 20px;
+}

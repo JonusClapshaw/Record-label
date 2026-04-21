@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  background-color: white;
+  border-bottom: solid 5px black;
+  justify-content: center;
+  padding: 5px;
+}
+
+.container img {
+  width: 5rem;
+}
