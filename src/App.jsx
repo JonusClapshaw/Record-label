@@ -1,9 +1,9 @@
-import { useState } from "react";
 import "./App.css";
-import data from "./data.json";
+import Header from "./components/Header.jsx"
+import Bio from "./components/Bio.jsx"
+import Artist from "./components/Artist.jsx"
 
 function App() {
-  const [count, setCount] = useState(0);
 
   return (
     <>
@@ -12,7 +12,6 @@ function App() {
       <Artist />
     </>
   );
-  console.log(data);
 }
 
 export default App;
