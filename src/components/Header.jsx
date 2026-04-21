@@ -1,9 +1,11 @@
+import record from '../assets/record.jpg'
+
 function Header() {
     return (
         <>
             <div className="container">
                 <h1>Wavelength Records</h1>
-                <h3>Artist</h3>
+                <img src={ record } alt="recordIcon"></img>
             </div>
         </>
     )
