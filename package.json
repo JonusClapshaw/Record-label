@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://jonusclapshaw.github.io/Record-Label/",
+  "homepage": "https://jonusclapshaw.github.io/Record-label/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
